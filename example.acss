@@ -1,0 +1,9 @@
+var ~button_color = #AABBCC 
+
+body {
+	margin-left: 100px;
+}
+
+.submitbutton {
+	background-color: ~button_color ;
+}
